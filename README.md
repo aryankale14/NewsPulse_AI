@@ -1,6 +1,8 @@
 <div align="center">
   <h1>⚡ NewsPulse AI</h1>
-  <p>An intelligent, autonomous Telegram Bot delivering highly personalized daily news briefings powered by Google Gemini and Google Search Grounding.</p>
+  <p>An intelligent, autonomous Telegram Bot delivering highly personalized daily news briefings powered by Google Gemini and Google Search Grounding.
+    Live Bot: https://t.me/Aryan_ka_news_bot
+  </p>
 
   ![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)
   ![Telegram API](https://img.shields.io/badge/python--telegram--bot-v21+-blue.svg)
